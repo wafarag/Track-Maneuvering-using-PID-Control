@@ -1,0 +1,185 @@
+
+100 mph W_cte = 15
+
+
+Perf_Ind: 0.647635
+Perf_Ind: 0.738891
+Perf_Ind: 0.944285
+Perf_Ind: 0.567423
+Perf_Ind: 0.909589
+Perf_Ind: 0.941
+Perf_Ind: 0.667302
+Perf_Ind: 0.895078
+Perf_Ind: 0.925702
+
+70 mph
+
+Perf_Ind: 0.876357
+Perf_Ind: 0.963962
+Perf_Ind: 1.39581
+Perf_Ind: 1.06517
+Perf_Ind: 0.869106
+Perf_Ind: 0.969273
+Perf_Ind: 1.38793
+Perf_Ind: 1.01037
+Perf_Ind: 0.889004
+Perf_Ind: 1.13272
+Perf_Ind: 1.18187
+Perf_Ind: 0.857824
+Perf_Ind: 0.954763
+Perf_Ind: 1.31094
+Perf_Ind: 1.03854
+Perf_Ind: 0.920361
+
+80 mph
+
+Perf_Ind: 0.722624
+Perf_Ind: 1.11516
+Perf_Ind: 0.819442
+
+100 mph   W_cte = 18
+
+Perf_Ind: 0.597077
+Perf_Ind: 0.848903
+Perf_Ind: 0.960317
+
+100 mph   W_cte = 20
+
+Perf_Ind: 0.693238
+Perf_Ind: 0.834071
+Perf_Ind: 0.968316
+Perf_Ind: 0.746175
+Perf_Ind: 0.768903
+Perf_Ind: 0.943848
+Perf_Ind: 0.699694
+Perf_Ind: 0.917169
+Perf_Ind: 0.96047
+Perf_Ind: 0.69655
+Perf_Ind: 0.853415
+Perf_Ind: 0.911145
+Perf_Ind: 0.71164
+Perf_Ind: 0.846062
+Perf_Ind: 0.91669
+Perf_Ind: 0.732524
+Perf_Ind: 0.916221
+Perf_Ind: 0.950672
+Perf_Ind: 0.699958
+Perf_Ind: 0.815155
+Perf_Ind: 0.996518
+Perf_Ind: 0.793069
+Perf_Ind: 0.868332
+Perf_Ind: 1.03705
+Perf_Ind: 1.05539
+Perf_Ind: 0.761773
+Perf_Ind: 1.20752
+Perf_Ind: 1.06111
+Perf_Ind: 0.804701
+Perf_Ind: 0.762438
+Perf_Ind: 1.02168
+Perf_Ind: 0.979628
+Perf_Ind: 0.772609
+Perf_Ind: 1.10079
+Perf_Ind: 1.02374
+Perf_Ind: 0.952285
+Perf_Ind: 0.996375
+Perf_Ind: 1.04383
+Perf_Ind: 1.1044
+Perf_Ind: 0.915595
+Perf_Ind: 1.04105
+Perf_Ind: 1.10465
+Perf_Ind: 1.23506
+Perf_Ind: 0.878525
+Perf_Ind: 1.18966
+Perf_Ind: 1.16217
+Perf_Ind: 1.02361
+Perf_Ind: 1.01778
+Perf_Ind: 1.00615
+Perf_Ind: 1.16627
+Perf_Ind: 1.1885
+Perf_Ind: 1.07119
+Perf_Ind: 0.918926
+Perf_Ind: 1.04738
+Perf_Ind: 1.19209
+Perf_Ind: 1.11272
+Perf_Ind: 1.04286
+Perf_Ind: 1.05684
+Perf_Ind: 1.25273
+Perf_Ind: 1.11061
+Perf_Ind: 0.988698
+Perf_Ind: 1.15359
+Perf_Ind: 1.11371
+Perf_Ind: 1.2871
+Perf_Ind: 1.42622
+Perf_Ind: 0.940469
+Perf_Ind: 0.983057
+Perf_Ind: 1.09492
+
+100 mph   W_cte = 17.5
+
+Perf_Ind: 0.699696
+Perf_Ind: 0.75651
+Perf_Ind: 0.900379
+Perf_Ind: 0.659251
+Perf_Ind: 0.897679
+
+100 mph   W_cte = 17.5  K_coeff = 1.0
+
+Perf_Ind: 0.628894
+Perf_Ind: 0.858027
+Perf_Ind: 0.878976
+Perf_Ind: 0.673759
+Perf_Ind: 0.846417
+
+100 mph   W_cte = 17.5  W_epsi = 3.0; K_coeff = 0.9
+
+Perf_Ind: 0.660225
+Perf_Ind: 0.803919
+Perf_Ind: 1.02025
+Perf_Ind: 0.682855
+Perf_Ind: 1.00688
+Perf_Ind: 0.939013
+Perf_Ind: 0.746446
+Perf_Ind: 0.821075
+Perf_Ind: 0.950344
+Perf_Ind: 0.775862
+
+100 mph   W_cte = 17.5  W_epsi = 2.75; K_coeff = 0.9
+
+Perf_Ind: 0.627457
+Perf_Ind: 0.929172
+Perf_Ind: 0.949055
+Perf_Ind: 0.693208
+Perf_Ind: 0.901585
+
+100 mph   W_cte = 17.5;  W_epsi = 2.75; K_coeff = 0.9; W_d_delta = 150
+
+Perf_Ind: 0.698669
+Perf_Ind: 0.802014
+Perf_Ind: 0.930192
+Perf_Ind: 0.710683
+Perf_Ind: 0.810463
+Perf_Ind: 0.951529
+Perf_Ind: 0.720074
+Perf_Ind: 0.881809
+
+100 mph   W_cte = 15;  W_epsi = 2.75; K_coeff = 0.9; W_d_delta = 150
+
+Perf_Ind: 0.61504
+Perf_Ind: 0.767033
+Perf_Ind: 1.03562
+Perf_Ind: 0.566713
+Perf_Ind: 0.870156
+Perf_Ind: 0.8811
+
+100 mph   W_cte = 12;  W_epsi = 2.75; K_coeff = 0.9; W_d_delta = 150
+
+Perf_Ind: 0.795675
+Perf_Ind: 0.770893
+Perf_Ind: 0.831356
+Perf_Ind: 0.642484
+Perf_Ind: 1.0411
+
+
+
+
+
