@@ -3,7 +3,7 @@
 <img src="PID.png" width="700" alt="Combined Image" />
 
 # Overview
-This repository contains all the code and data needed to design and implement a Proportional-Integral-Differential (PID) controller for an autonomous vehicle to successfully maneuver around a complex track which has lots sharp turns. The project used [this simulator](https://github.com/udacity/self-driving-car-sim/releases) to design, test and evaluate the controller.
+This repository contains all the code and data needed to design and implement a Proportional-Integral-Differential (PID) controller for an autonomous vehicle to successfully maneuver around a complex track which has lots sharp turns. The project uses [this simulator](https://github.com/udacity/self-driving-car-sim/releases) to design, test and evaluate the controller.
 
 The full details of the project implementation (developed in C++) and the design of the PID controller can be found [in this report](https://github.com/wafarag/Track-Maneuvering-using-PID-Control/blob/master/PID-Report.pdf).
 
